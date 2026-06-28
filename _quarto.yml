@@ -5,7 +5,11 @@ project:
 website:
   title: "Stakeholder Awareness Survey on the Z-Score System"
   navbar:
-    left: []
+    left: 
+      - href: index.qmd 
+        text: Information Sheet
+      - href: about.qmd 
+        text: Consent Form
 
 format:
   html:
